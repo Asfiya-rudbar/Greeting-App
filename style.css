@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+   margin-top: 80px;
+   background-color: rgb(246, 232, 215);
+}
+/* 
+span{
+    color: chartreuse;
+    
+} */
+#Content{
+    margin-top: 30px;
+    font-size: 24px;
+    background-color: black;
+    color: rgb(134, 252, 15);
+    margin-left: 46rem ; 
+    margin-right: 46rem ; 
+    border-radius: 5px;
+}
+
+button{
+    margin-top: 30px;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* p{
+    margin-top: 20px;
+} */
